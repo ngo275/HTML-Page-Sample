@@ -18,7 +18,9 @@ h2 {
 	font-family: 'abeatbykairegular' !important;
 }
 
-
+a,
+input,
+span,
 p {
     font-family: 'Quicksand', 'sans-serif'; 
 }
