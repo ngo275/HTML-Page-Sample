@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'ProximaNova-Regular';
+	src: url('../fonts/ProximaNova-Regular.otf') format('opentype'), url('../fonts/ProximaNova-Regular.eot') format('embedded-opentype'), url('../fonts/ProximaNova-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'abeatbykairegular';
+	src: url('../fonts/abeatbykairegular-webfont.eot');
+	src: url('../fonts/abeatbykairegular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/abeatbykairegular-webfont.woff2') format('woff2'), url('../fonts/abeatbykairegular-webfont.woff') format('woff'), url('../fonts/abeatbykairegular-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1,
+h2 {
+	font-family: 'abeatbykairegular' !important;
+}
+
+
+p {
+    font-family: 'Quicksand', 'sans-serif'; 
+}
